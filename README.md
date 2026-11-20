@@ -19,5 +19,5 @@
 we have replicated human intelligence using machines. How does this notion align with
 the mystique of our collective intelligence; Human, Feline, Canine, Plant, Fungi, etc?
 
-Perhaps the Romantic Languages are a better fit, in Spanish: Inteligencias Artificiales?
+Perhaps the Romantic Languages are a better fit for what LLMs have created, in Spanish: Inteligencias Artificiales?
 Or Intelligence Artificial...
