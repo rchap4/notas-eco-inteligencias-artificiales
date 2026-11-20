@@ -1,4 +1,4 @@
-# Resources to Help Understand Artificial Intelligence (IA) and the Environment
+# Resources to Understand Artificial Intelligence (IA) and the Environment
 
 [EcoLogits Calculator](https://calculator.ecologits.ai)
 > Understand a Large Language Model's (LLM) ecological footprint and compare different models to make
